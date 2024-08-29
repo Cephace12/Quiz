@@ -24,7 +24,7 @@
       </div>
     </div>
     <h2 class="justify-items-center text-2xl text-blue-500 italic font-md">
-      Design réaliser
+      Design réaliser par Céphace Kinhohegbe
     </h2>
   </div>
 </template>
